@@ -1,0 +1,6 @@
+{
+  "name": "MSh Company — Jeeg iyo Kabaleeti",
+  "description": "Construction equipment rental, returns, inventory, payments, and expense management system for MSh Company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
